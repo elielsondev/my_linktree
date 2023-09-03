@@ -135,4 +135,8 @@ footer {
     color: #fff;
     justify-content: center;
     align-items: flex-end;
+    position: absolute;
+    bottom: 1.2em;
+    width: 100%;
+    height: 1rem;  
 }
