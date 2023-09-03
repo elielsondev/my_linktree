@@ -1,0 +1,19 @@
+{
+  "name": "my_linktree",
+  "version": "1.0.0",
+  "description": "Projeto centralizador de links profissionais e sociais",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elielsondev/my_linktree.git"
+  },
+  "author": "Elielson Nascimento <nascimento.elielson@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elielsondev/my_linktree/issues"
+  },
+  "homepage": "https://github.com/elielsondev/my_linktree#readme"
+}
