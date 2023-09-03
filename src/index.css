@@ -2,4 +2,27 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: darkblue;
+}
+
+#userHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2em;
+}
+
+#userImg {
+    border-radius: 50%;
+    width: 6em;
+    height: 6em;
+    padding: 0.5em;
+}
+
+#userName {
+    font-family: sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    color: darkorange;
 }
